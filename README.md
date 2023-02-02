@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/abdurre68613301" target="blank"><img src="https://img.shields.io/twitter/follow/abdurre68613301?logo=twitter&style=for-the-badge" alt="abdurre68613301" /></a> </p>
 
-- 🔭 I’m currently working on **Distribution Management System**
+- 🔭 I’m currently working on **Catalog App In Flutter**
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Book Store Management System**
 
