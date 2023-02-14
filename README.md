@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Book Store Management System**
+- 👯 I’m looking to collaborate on **SQL App**
 
 - 🤝 I’m looking for help with **Ecommerce Website**
 
