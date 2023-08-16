@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/abdurre68613301" target="blank"><img src="https://img.shields.io/twitter/follow/abdurre68613301?logo=twitter&style=for-the-badge" alt="abdurre68613301" /></a> </p>
 
-- 🔭 I’m currently working on **To Do List**
+- 🔭 I’m currently working on **e-commerce website**
 
 - 🌱 I’m currently learning **Web Developement**
 
-- 👯 I’m looking to collaborate on **Web Developement Project**
+- 👯 I’m looking to collaborate on **Web Developement Projects**
 
-- 🤝 I’m looking for help with **Ecommerce Website**
-
-- 💬 Ask me about **HTML, CSS, Javascript, JQuery, Node, Express, and APIs**
+- 💬 Ask me about **HTML, CSS, Javascript, DOM, JQuery, Node, Express, APIs, and React**
 
 - 📫 How to reach me **abdurrehmanbinfaheem@gmail.com**
 
